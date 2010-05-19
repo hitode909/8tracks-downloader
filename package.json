@@ -1,0 +1,6 @@
+{
+  "description": "Download mp3 automatically from 8tracks.",
+  "author": "hitode909 (http://d.hatena.ne.jp/hitode909)",
+  "dependencies": ["jetpack-core"],
+  "version": 0.2
+}
